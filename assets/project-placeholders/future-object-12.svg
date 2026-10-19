@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-labelledby="title-12 desc-12">
+  <title id="title-12">Future Object 12</title>
+  <desc id="desc-12">预留作品位置，项目图片待补充。</desc>
+  <rect width="1200" height="1500" fill="#e6eadc"/>
+  <g fill="#262922" font-family="Arial, Helvetica, sans-serif">
+    <text x="88" y="124" font-size="22" letter-spacing="5">SELECTED WORK / 12</text>
+    <text x="74" y="985" font-size="530" font-weight="400" letter-spacing="-32" fill="#758267">12</text>
+    <text x="88" y="1342" font-size="34" letter-spacing="2">FUTURE OBJECT 12</text>
+    <text x="88" y="1404" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24" fill="#758267" letter-spacing="3">作品资料待补充</text>
+  </g>
+  <path d="M88 170H1112 M88 1282H1112" stroke="#758267" stroke-opacity=".3"/>
+<defs><pattern id="max-portfolio-watermark" width="864" height="316.8" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><text x="0" y="100.8" font-family="Arial, sans-serif" font-size="72" fill="#777" fill-opacity="0.05">max‘s portfolio</text></pattern></defs><rect x="0" y="0" width="1200" height="1500" fill="url(#max-portfolio-watermark)" pointer-events="none"/></svg>
